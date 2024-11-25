@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1063807391048",
+    "firebase_url": "https://instant-mind-404207-default-rtdb.firebaseio.com",
+    "project_id": "instant-mind-404207",
+    "storage_bucket": "instant-mind-404207.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063807391048:android:000c1e3f10e6e624a90f7d",
+        "android_client_info": {
+          "package_name": "com.example.almost_zenly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnxsHhejuT49lEjkaJnXB5swb9yaF8_WQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063807391048:android:5bc08d972ff5b93ba90f7d",
+        "android_client_info": {
+          "package_name": "com.example.taxi_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnxsHhejuT49lEjkaJnXB5swb9yaF8_WQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063807391048:android:5287dbe1d83dfabea90f7d",
+        "android_client_info": {
+          "package_name": "com.example.taxi_scouter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnxsHhejuT49lEjkaJnXB5swb9yaF8_WQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
